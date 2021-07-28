@@ -2,6 +2,7 @@
 Deep-learning model for Optical Character Recognition. And to find what I have written in my horrible handwriting😁😂
 
 Here is the link for MNIST Dataset used here for training, testing and evaluation : 
+
 [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 
 After the initial development of the project without Hyperparameter optimization these are the results : 
