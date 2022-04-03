@@ -3,8 +3,9 @@ Deep-learning model for Optical Character Recognition. And to find what I have w
 
 Here is the link for MNIST Dataset used here for training, testing and evaluation available at Kaggle : 
 
-[https://www.kaggle.com/pablotab/mnistpklgz](https://www.kaggle.com/pablotab/mnistpklgz)
-[https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/data/mnist.pkl.gz](https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/data/mnist.pkl.gz)
+[https://www.kaggle.com/pablotab/mnistpklgz](https://www.kaggle.com/pablotab/mnistpklgz) -> (Unpacked 220 MB)
+
+[https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/data/mnist.pkl.gz](https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/data/mnist.pkl.gz) -> (Packed 17 MB)
 
 After the initial development of the project without Hyperparameter optimization these are the results : 
 
